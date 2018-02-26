@@ -23,4 +23,12 @@ function inc(a)
   return a++
 }
 
-function
+function dec(a)
+{
+  return a--
+}
+
+function makeInt(a)
+{
+  return parseInt(a)
+}
